@@ -1,0 +1,24 @@
+{
+    "name": "Kluivert QRcode",
+    "short_name": "QRcode",
+    "start_url": ".",
+    "background_color": "#adadeb",
+    "description":"QR code generator made by kluivert",
+    "theme_color":"#adadeb",
+    "display":"standalone",
+    "icons": [
+        {
+            "src": "img/logo144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "img/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+
+}

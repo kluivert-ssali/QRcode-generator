@@ -1,0 +1,9 @@
+{
+    "name": "Kluivert QRcode",
+    "short_name": "QRcode",
+    "start_url": ".",
+    "background_color": "transparent",
+    "description":"QR code generator made by kluivert",
+    "theme_color":"transparent"
+
+}

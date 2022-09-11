@@ -1,0 +1,21 @@
+{
+    "name": "Kluivert QRcode",
+    "short_name": "QRcode",
+    "start_url": ".",
+    "display": "standalone",
+    "background": "transparent",
+    "description":"QR code generator made by kluivert",
+    "icons": [
+        {
+            // "src": "/img/logo.png",
+            "size": "512x512",
+            "type": "image/png"
+        },
+        {
+            // "src": "/img/logo.png",
+            "size": "192x192",
+            "type": "image/png"
+
+        }
+    ]
+}
